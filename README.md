@@ -10,3 +10,4 @@ Este repo contiene un ejemplo de uso de: Lambda, SQS, SNS. <br />
 - Agregar lógica para validar entrada desde API Gateway
 - Si los datos son incorrectos (el nombre no está o contiene caracteres inválidos) generar logs en CloudWatch
 - En este último caso, devolver un error al usuario
+- Generar una PR hacia el repo original
